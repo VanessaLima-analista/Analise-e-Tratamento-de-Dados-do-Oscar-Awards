@@ -6,8 +6,8 @@ Este projeto foca na manipulação de dados de premiações do Oscar, demonstran
 
 #### Objetivos do Projeto
 
-* Aplicar funções condicionais (`IF`, `AND`, `OR`) para segmentação de dados.
-* Utilizar funções de pesquisa (`VLOOKUP`, `INDEX/MATCH`) para localizar informações específicas.
+* Aplicar funções condicionais (IF, AND, OR) para segmentação de dados.
+* Utilizar funções de pesquisa (VLOOKUP, INDEX/MATCH) para localizar informações específicas.
 * Manipular dados textuais e de tempo com funções dedicadas.
 * Preparar uma planilha limpa e organizada para relatórios e visualizações.
 
@@ -15,15 +15,15 @@ Este projeto foca na manipulação de dados de premiações do Oscar, demonstran
 
 A análise seguiu os seguintes passos, que se assemelham às operações realizadas no Google Sheets:
 
-1.  **Funções Condicionais:** Uma nova coluna, `award_status`, foi criada para categorizar as indicações como "Winner" (Vencedor) ou "Nominee" (Indicado).
-2.  **Funções de Texto e Tempo:** As colunas foram formatadas para padronizar o texto (`UPPER` para categorias) e extrair informações de tempo, como o dia da semana da cerimônia.
+1.  **Funções Condicionais:** Uma nova coluna, award_status, foi criada para categorizar as indicações como "Winner" (Vencedor) ou "Nominee" (Indicado).
+2.  **Funções de Texto e Tempo:** As colunas foram formatadas para padronizar o texto (UPPER para categorias) e extrair informações de tempo, como o dia da semana da cerimônia.
 3.  **Análise de Dados:** Foram geradas tabelas de resumo para identificar os principais vencedores e as categorias mais premiadas.
 
 #### Entregáveis
 
-* Arquivo de dados processado e tratado: `Oscar_Awards_Processed.csv`.
-* Tabela de vencedores por categoria (Top 10): `Oscar_Awards_Category_Wins.csv`.
-* Tabela de vencedores por pessoa (Top 10): `Oscar_Awards_Person_Wins.csv`.
+* Arquivo de dados processado e tratado: Oscar_Awards_Processed.csv.
+* Tabela de vencedores por categoria (Top 10): Oscar_Awards_Category_Wins.csv.
+* Tabela de vencedores por pessoa (Top 10): Oscar_Awards_Person_Wins.csv.
 
 ---
 
