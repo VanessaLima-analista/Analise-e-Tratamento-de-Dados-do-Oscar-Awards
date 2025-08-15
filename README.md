@@ -31,8 +31,8 @@ A análise seguiu os seguintes passos, que se assemelham às operações realiza
 
 Os seguintes arquivos estão prontos para você fazer o upload para o seu repositório do GitHub:
 
-* **`Oscar_Awards_Processed.csv`**: A planilha principal com todas as colunas que processamos.
-* **`Oscar_Awards_Category_Wins.csv`**: Uma tabela com as 10 categorias com mais vitórias[cite: 3999, 4000].
-* **`Oscar_Awards_Person_Wins.csv`**: Uma tabela com as 10 pessoas/filmes com mais vitórias[cite: 4000, 4001].
+* **Oscar_Awards_Processed.csv**: A planilha principal com todas as colunas que processamos.
+* **Oscar_Awards_Category_Wins.csv**: Uma tabela com as 10 categorias com mais vitórias[cite: 3999, 4000].
+* **Oscar_Awards_Person_Wins.csv**: Uma tabela com as 10 pessoas/filmes com mais vitórias[cite: 4000, 4001].
 
 Esses materiais documentam todo o processo do meu projeto, desde a preparação dos dados até a geração de insights valiosos.
